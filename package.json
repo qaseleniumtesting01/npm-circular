@@ -1,0 +1,21 @@
+{
+  "name": "data2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-register": "^6.26.0",
+    "cssnano": "^3.10.0",
+    "home-or-tmp": "^3.0.0",
+    "os-homedir": "^2.0.0",
+    "os-tmpdir": "^2.0.0",
+    "postcss-modules-values": "^3.0.0",
+    "source-map-support": "^0.5.16"
+  }
+}
