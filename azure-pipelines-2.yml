@@ -15,4 +15,4 @@ steps:
 
 - task: WhiteSource@20
   inputs:
-    cwd: 'node_modules/'
+    cwd: '$(System.DefaultWorkingDirectory)'
